@@ -1,3 +1,3 @@
 # chess_system_java
 
-> Sistema  de jogo de xadrez , orientado objeto. array herança e etc. Precisa ativar o cmd
+> Sistema  de jogo de xadrez , orientado objeto. array herança e etc.
